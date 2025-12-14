@@ -15,3 +15,13 @@ The data is updated daily and appears in your graph.
 ## Data security and use
 All data is encrypted before being sent to the server. Furthermore, this data is not sent to anyone else.
 This board is personal and remains so. You can export and import your data if you wish.
+
+## How to run it?
+Install the required packages:
+```
+pip install -r requirements.txt
+```
+Then run the py file:
+```
+streamlit run psychsafetyboard.py
+```
